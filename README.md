@@ -49,3 +49,43 @@ Kodluyoruz Eğitimi CSS Ödev 2
     </div>
 </body>
 </html>
+
+.content{
+    width: 1350px;
+    height: min-content;
+    margin-bottom: 15px;
+    margin-top: 30px
+}
+
+.box1{
+    width: 39%;
+    height: 85px;
+    float: left;
+    text-align: center;
+    background-color: #84e9df;
+    font-size: 18px;
+}
+
+.box2{
+    background-color: #6ae2d6;
+    width: 20%;
+    height: 85px;
+    float: left;
+    text-align: center;
+    font-size: 15px;
+    margin:0 0.2%;
+}
+
+.box3{
+    background-color: #53c5b9;
+    width: 39%;
+    height: 85px;
+    text-align: center;
+    font-size: 15px;
+    float: left;    
+
+}
+
+.clear{
+    clear: both;
+}
